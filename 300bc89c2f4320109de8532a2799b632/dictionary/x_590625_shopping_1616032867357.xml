@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Shopping 1616032867357" max_length="40" name="x_590625_shopping_1616032867357" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AEON" label="AEON" max_length="40" name="u_aeon" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LIFE" label="LIFE" max_length="40" name="u_life" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Store name" label="Store name" max_length="40" name="u_store_name" type="string"/>
+    </element>
+</database>
